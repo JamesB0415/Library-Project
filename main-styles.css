@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(238, 237, 237);
+}
+
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: auto;
+  color: blue;
+  border: solid 2px hsl(0, 2%, 84%);
+  box-shadow: 8px 8px 12px lightblue;
+  background-color: rgb(240, 240, 240);
+  
+
+}
+.main-textbox {
+  position: relative;
+  display: block;
+  border: solid 1px hsl(0, 0%, 88%);
+  font-size: 1.5em;
+  padding: 6px 6px;
+  margin: 12px 12px 10px 12px;
+}
+
+.main-button {
+  border: solid, 1px, hsl(0, 0%, 69%); 
+  border-radius: 14px;
+  width: 14em;
+  height: 2em;
+  margin-left: 10px;
+  color: white;
+  background-color: rgb(132, 132, 255);
+  cursor: pointer;
+  
+}
+
+.main-button:hover {
+  text-decoration: underline;
+  background-color: blue;
+}
+
+#account-text {
+  margin-left: 10px;
+}
+
+#account-text:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

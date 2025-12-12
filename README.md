@@ -1,14 +1,16 @@
 # Library Tracker Project!
-Welcome to Version 0
+Welcome to Version 0.1!
+
+You can read the updates file if you want more insight to the current build!
 
 In this version the project is barely functional. 
 
-There No HTML or really anything. This is a test to practice push requests with git to Github
+There little HTML or really anything. This is a test to practice push requests with git to Github
 
 Later Versions there will be JavaScript, HTML, and CSS added for funcionality
 
 ## Current Features
-In Version 0, as I mentioned above, there isnt any features :(
+In Version 0.0.1, as I mentioned above, there isnt many features :(
 
 However stay tuned for coming updates!
 
