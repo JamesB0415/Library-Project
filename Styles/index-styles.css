@@ -15,7 +15,7 @@ div {
   
 
 }
-.main-textbox {
+.textbox {
   position: relative;
   display: block;
   border: solid 1px hsl(0, 0%, 88%);
@@ -24,7 +24,7 @@ div {
   margin: 12px 12px 10px 12px;
 }
 
-.main-button {
+.index-button {
   border: solid, 1px, hsl(0, 0%, 69%); 
   border-radius: 14px;
   width: 14em;
@@ -36,7 +36,7 @@ div {
   
 }
 
-.main-button:hover {
+.index-button:hover {
   text-decoration: underline;
   background-color: blue;
 }

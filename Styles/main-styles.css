@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(206, 205, 205);
+}
+
+table {
+  border-collapse: collapse;
+  padding: 8px;
+  text-align: center;
+  display: block;
+}
+
+.table-header {
+  border: solid;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.table-row {
+  border: solid;
+  text-align: center;
+}
+
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
