@@ -4,7 +4,7 @@ Welcome to Version 0.1.0
 ## How to View
 The project is now available to be seen! click the link below or click the pages area on the left side.
 
-<a href="jamesb0415.github.io/Library-Project/">Click Here</a>
+https://jamesb0415.github.io/Library-Project/
 
 You can read the updates file if you want more insight to the current build!
 
