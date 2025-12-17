@@ -1,6 +1,11 @@
 # Library Tracker Project!
 Welcome to Version 0.1.0
 
+## How to View
+The project is now available to be seen! click the link below or click the pages area on the left side.
+
+jamesb0415.github.io/Library-Project/
+
 You can read the updates file if you want more insight to the current build!
 
 View ---->  [Updates.md](Updates.md) <---- for more info.
